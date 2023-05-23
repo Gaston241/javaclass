@@ -1,6 +1,6 @@
 package clasequince;
 
-//Clase numero 15 de Java! (Tipos primitivos de java)
+//Clase numero 15 y 16 de Java! (Tipos primitivos de java y Tipos Numericos Enteros!)
 public class Clasequince {
 
     public static void main(String[] args) {
